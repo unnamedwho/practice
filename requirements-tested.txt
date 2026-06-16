@@ -1,0 +1,14 @@
+# Verified direct dependencies for Python 3.14.7
+pandas==3.0.6
+numpy==2.5.4
+pyarrow==26.0.0
+matplotlib==3.11.2
+scikit-learn==1.9.1
+joblib==1.6.0
+SQLAlchemy==2.1.5
+psycopg[binary]==3.3.6
+pytest==9.1.1
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==7.4.0
+openpyxl==3.1.5
